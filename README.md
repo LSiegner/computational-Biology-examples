@@ -17,7 +17,7 @@ This repository mainly functions for me as a backup of smaller projects, i had t
  </ul>
 Which are applied to the following biological topics:
 <ul>
-<li>Epidemiological models and vaccination strategy in populations</li>
+<li>Epidemiological models and vaccination strategy in populations(We all know why that was an important thing to teach :sweat_smile:)</li>
 <li>genetic circuits in bacteria, see "genetic toggle switch" and "repressilator"</li>
 <li>general description of populations</li>
 </ul>
